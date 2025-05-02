@@ -20,3 +20,9 @@ I'm currently working of FiveM & RedM server and scripts development.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=koolaash&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koolaash/koolaash/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koolaash/koolaash/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/koolaash/koolaash/output/github-snake.svg" />
+</picture>
